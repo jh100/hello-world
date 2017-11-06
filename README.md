@@ -1,3 +1,3 @@
 # hello-world
 Tutorial project.
-Test edit for this tutorial. Additional stuff.
+Test edit for this tutorial.
